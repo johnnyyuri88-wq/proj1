@@ -8,3 +8,4 @@ Aprender GitHub e controle de versão.
 ## Integrantes
 - Johnny Yuri
 - Felipe
+- Maria H.
